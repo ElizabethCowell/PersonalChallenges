@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.exe
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.deps.json
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.runtimeconfig.json
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.runtimeconfig.dev.json
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.dll
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\ref\PersonalChallenges.dll
+C:\Users\eholy\repos\PersonalChallenges\bin\Debug\net5.0\PersonalChallenges.pdb
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.csprojAssemblyReference.cache
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.AssemblyInfo.cs
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.dll
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\ref\PersonalChallenges.dll
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.pdb
+C:\Users\eholy\repos\PersonalChallenges\obj\Debug\net5.0\PersonalChallenges.genruntimeconfig.cache
